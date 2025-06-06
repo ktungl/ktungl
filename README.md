@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **SQL, C#, HTML, Python**
 
+- Let's play the garden adventure game I made with Python: https://codeinplace.stanford.edu/cip5/share/ZxAxvYBLqH36BL8pK0m7
+
 ---
 
 ### 📫 Connect with me
