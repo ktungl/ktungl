@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kuan Tung</h1>
 <h3 align="center">A full-stack engineer in training from Taiwan.</h3>
 
-- 🌱 I’m currently learning **SQL, C#, HTML, Python**
+ I’m currently learning **SQL, C#, HTML, Python**
 
 -
 
