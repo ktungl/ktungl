@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kuan Tung</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">A full-stack engineer from Taiwan.</h3>
 
 
